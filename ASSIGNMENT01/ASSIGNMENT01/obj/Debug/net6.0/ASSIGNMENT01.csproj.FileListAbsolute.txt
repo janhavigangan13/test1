@@ -1,0 +1,15 @@
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\bin\Debug\net6.0\ASSIGNMENT01.exe
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\bin\Debug\net6.0\ASSIGNMENT01.deps.json
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\bin\Debug\net6.0\ASSIGNMENT01.runtimeconfig.json
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\bin\Debug\net6.0\ASSIGNMENT01.dll
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\bin\Debug\net6.0\ASSIGNMENT01.pdb
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.csproj.AssemblyReference.cache
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.AssemblyInfoInputs.cache
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.AssemblyInfo.cs
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.csproj.CoreCompileInputs.cache
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.dll
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\refint\ASSIGNMENT01.dll
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.pdb
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ASSIGNMENT01.genruntimeconfig.cache
+C:\Users\JANHAVI\source\repos\ASSIGNMENT01\ASSIGNMENT01\obj\Debug\net6.0\ref\ASSIGNMENT01.dll
